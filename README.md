@@ -1,4 +1,4 @@
 # Demo
 First repo
 <br>
-author - Krish
+author - Kris
