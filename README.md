@@ -1,5 +1,5 @@
 # Demo
 First repo
 <br>
-author - Krish Macwana
+author - Krish Makwana
 
